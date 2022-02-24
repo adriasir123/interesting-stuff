@@ -25,7 +25,7 @@ cd /tmp
 wget http://winhelp2002.mvps.org/hosts.txt
 rm /etc/hosts
 mv hosts.txt /etc/hosts
-cat ~/.etchosts >> /etc/hosts
+cat /home/atlas/.etchosts >> /etc/hosts
 ```
 
 Make the script executable:
@@ -37,7 +37,27 @@ sudo chmod +x /root/update_hosts.sh
 Now we run it to update our hosts file:
 
 ```
-
+sudo /root/update_hosts.sh
 ```
 
+After this step, our hosts file will be in place. 
 
+Next? We can add a cron job to update this file automatically:
+
+```
+crontab -e
+```
+
+We are going to insert the following:
+
+```
+59 23 * * * /root/update_hosts.sh
+```
+
+This job runs every day at 23:59.
+
+Remember, if we need to add something to the hosts file we now want to add it to ~/.etchosts and then run the script to update /etc/hosts.
+
+# Human-readable Cron jobs
+
+Use this: https://crontab.guru/
