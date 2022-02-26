@@ -61,3 +61,9 @@ Remember, if we need to add something to the hosts file we now want to add it to
 # Human-readable Cron jobs
 
 Use this: https://crontab.guru/
+
+# Cleaning your laptop
+
+https://www.youtube.com/watch?v=M_kr3FmsSUE
+
+**Important note about the video above**: *read the comments*, not everything in the video should be done *exactly* as he says.
