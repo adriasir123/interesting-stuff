@@ -71,3 +71,8 @@ https://www.youtube.com/watch?v=M_kr3FmsSUE
 # Hide Firefox top tabs
 
 If you are using Tree Style Tabs, you might want to hide the top tabs, do it this way: <https://medium.com/@Aenon/firefox-hide-native-tabs-and-titlebar-f0b00bdbb88b>
+
+# Make your Nvidia work in Debian 11
+
+<https://linuxhint.com/install-nvidia-drivers-debian-11/>
+<https://www.server-world.info/en/note?os=Debian_11&p=nvidia&f=1>
