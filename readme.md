@@ -67,3 +67,7 @@ Use this: https://crontab.guru/
 https://www.youtube.com/watch?v=M_kr3FmsSUE
 
 **Important note about the video above**: *read the comments*, not everything in the video should be done *exactly* as he says.
+
+# Hide Firefox top tabs
+
+If you are using Tree Style Tabs, you might want to hide the top tabs, do it this way: <https://medium.com/@Aenon/firefox-hide-native-tabs-and-titlebar-f0b00bdbb88b>
