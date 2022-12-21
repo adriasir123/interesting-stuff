@@ -74,5 +74,5 @@ If you are using Tree Style Tabs, you might want to hide the top tabs, do it thi
 
 # Make your Nvidia work in Debian 11
 
-<https://linuxhint.com/install-nvidia-drivers-debian-11/>
+<https://linuxhint.com/install-nvidia-drivers-debian-11/>  
 <https://www.server-world.info/en/note?os=Debian_11&p=nvidia&f=1>
